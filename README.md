@@ -1,3 +1,1 @@
-My GitHub Contributions Calendar
-================================
-This repository was generated with [GitHub Contributions](https://github.com/IonicaBizau/github-contributions) generator. Thanks, [@IonicaBizau](https://github.com/IonicaBizau).
+The latest version of the language, ECMASCript 6 (ES6 for short) was recently finalized and it brings a lot of improvements for developers. 

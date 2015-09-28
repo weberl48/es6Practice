@@ -1,0 +1,17 @@
+{
+  "name": "babel-starter",
+  "version": "1.0.0",
+  "description": "Starting project for babel, browserify, gulp projects",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "babel": "^5.2.6",
+    "babelify": "^6.0.2",
+    "browserify": "^10.0.0",
+    "gulp": "^3.8.11",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
